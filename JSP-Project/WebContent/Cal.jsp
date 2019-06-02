@@ -4,7 +4,7 @@
 
 <body>
 
-<%= addi.print("Yashwanth" , "Computer") %>
+<%= addi.print("Yashwanth" , "IT") %>
 
 </body>
 </html>
